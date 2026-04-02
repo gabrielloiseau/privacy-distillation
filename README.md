@@ -102,6 +102,14 @@ The survey data originates from the [privacy-judge](https://github.com/sjmeis/pr
 ## Citation
 
 ```bibtex
-
+@misc{loiseau2026distilling,
+      title={Distilling Human-Aligned Privacy Sensitivity Assessment from Large Language Models}, 
+      author={Gabriel Loiseau and Damien Sileo and Damien Riquet and Maxime Meyer and Marc Tommasi},
+      year={2026},
+      eprint={2603.29497},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2603.29497}, 
+}
 ```
 
